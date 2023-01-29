@@ -1,0 +1,4 @@
+SHOIM PROJECT
+- Konsisten untuk membuat project
+- Membuat Platform untuk pengelolaan Video
+- Membuat Forum diskusi
