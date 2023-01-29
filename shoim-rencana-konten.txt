@@ -1,0 +1,5 @@
+RENCANA KONTEN SHOIM
+- Javascript
+- PHP Frameworks
+- Interviews
+- Vlogs
