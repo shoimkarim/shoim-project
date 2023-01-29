@@ -2,3 +2,5 @@ SHOIM PROJECT
 - Konsisten untuk membuat project
 - Membuat Platform untuk pengelolaan Video
 - Membuat Forum diskusi
+- Membuat merch shop
+- Kolaborasi dengan lepbih banyak
