@@ -2,6 +2,7 @@ RENCANA KONTEN SHOIM
 - Javascript
  * ES6
  *Framework Javs
+ -Menanhkan file
 - PHP Frameworks
 - Interviews
 - Vlogs
